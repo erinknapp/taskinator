@@ -9,7 +9,7 @@ A simple to do app
 * Javascript
 
 ## Example To Do List
-![A typical morning to do list](assets\images\taskinator-ex.JPG)
+![A typical morning to do list](https://i.imgur.com/etVhtRX.jpg)
 
 ## Website
 https://erinknapp.github.io/taskinator/
